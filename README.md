@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayiaWang
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently working on plant transcriptomics and epigenomics
+- 👀 I’m interested in bioinformatics.
+- 🌱 I’m currently working on plant transcriptomics and epigenomics.
 - 💞️ I’m learning python.
 - 📫 How to reach me ...
 
